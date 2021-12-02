@@ -76,7 +76,7 @@ body {
 }
 
 #app .timer span {
-  font-size: 50vw;
+  font-size: 40vw;
   color: white;
   /* color: #2c3e50; */
 }
